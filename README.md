@@ -59,7 +59,7 @@ npm run build
 or
 
 ```sh
-npm run build
+yarn run build
 ```
 
 The code that has been built will be available in the `dist/` directory.
